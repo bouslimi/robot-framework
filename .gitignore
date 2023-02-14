@@ -1,0 +1,8 @@
+*.png
+*.log
+log.html
+output.xml
+report.html
+__pycache__
+pabot_results
+.pabotsuitenames
